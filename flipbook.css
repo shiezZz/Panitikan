@@ -204,7 +204,7 @@
 .flipbook-container .book .paper .front-content{
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    background: url("/flipbook/details-cont.avif");
+    background: url("flipbook/details-cont.avif");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -213,45 +213,45 @@
 .flipbook-container .book .paper .back-content{
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    background: url("/flipbook/image-cont.jpg");
+    background: url("flipbook/image-cont.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
 }
 
 .flipbook-container .paper:first-child .front-content{
-    background: url("/flipbook/cover.png");
+    background: url("flipbook/cover.png");
     background-size: cover;
     background-repeat: no-repeat;
 
 }
 
 .flipbook-container .paper:first-child .back-content{
-    background: url("/flipbook/back-cover.jpg");
+    background: url("flipbook/back-cover.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .flipbook-container .paper:nth-child(2) .front-content{
-    background: url("/flipbook/right-page-cover.png");
+    background: url("flipbook/right-page-cover.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .flipbook-container .paper:nth-child(2) .back-content,.flipbook-container .paper:nth-child(3) .front-content{
-    background: url("/flipbook/contents.jpg");
+    background: url("flipbook/contents.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .flipbook-container .paper:last-child .front-content,.flipbook-container .paper:nth-last-child(3) .back-content, .flipbook-container  .paper:nth-last-child(2) .front-content{
-    background: url("/flipbook/back-cover.jpg");
+    background: url("flipbook/back-cover.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .flipbook-container .paper:last-child .back-content{
-    background: url("/flipbook/cover.jpg");
+    background: url("flipbook/cover.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -263,7 +263,7 @@
 }
 
 .flipbook-container  .paper:nth-last-child(2) .back-content{
-    background: url("/flipbook/developer-page.png");
+    background: url("flipbook/developer-page.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
